@@ -1,5 +1,5 @@
 > [!NOTE]
-> Access to a working aimbot for the [official Gunbound](https://gunbound.gnjoy.asia/) can be purchased from me [here](https://gb.sanjo-solutions.com/aimbot).
+> Access to a working aimbot for the Gitz and other servers can be purchased from me [here](https://gb.sanjo-solutions.com/aimbot).
 
 # Gunbound Bot
 
