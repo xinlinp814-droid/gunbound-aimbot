@@ -1,3 +1,6 @@
+> [!NOTE]
+>[Working aimbot for Gitz, GBViet, Gunbound Oficial and DragonBound](https://gb.sanjo-solutions.com/aimbot)
+
 # Gunbound Bot
 
 This work is devoted to God.
